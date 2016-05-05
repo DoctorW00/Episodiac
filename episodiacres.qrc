@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/bilder">
+        <file>icons/add.png</file>
+        <file>icons/close.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/download.png</file>
+        <file>icons/episodiac.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/info.png</file>
+        <file>icons/omdb.png</file>
+        <file>icons/remove.png</file>
+        <file>icons/save.png</file>
+        <file>icons/setup.png</file>
+        <file>icons/thetvdb.png</file>
+        <file>icons/tmdb.png</file>
+        <file>icons/tvmaze.png</file>
+        <file>languages/de.png</file>
+        <file>languages/en.png</file>
+    </qresource>
+</RCC>
